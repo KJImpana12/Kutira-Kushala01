@@ -33,3 +33,20 @@ google-services.json
 # Android Profiling
 *.hprof
 *.hprof
+# Java heap dumps
+*.hprof
+
+# macOS
+.DS_Store
+
+# Android build files
+/build
+/app/build
+*.iml
+
+# Local config (never share this)
+local.properties
+
+# IDE files
+.idea/
+
