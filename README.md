@@ -236,9 +236,9 @@ User taps "Update" button
 
 ## 👨‍💻 Developed By
 
-Internship Project — [Akhil M]  
+Internship Project — [K J Impana]  
 Guide: [Tirumal Mutalikdesai]  
-Institution: [S J C Institute of Techonolgy]
+Institution: [PES College of Engineering Mandya]
 
 ---
 
