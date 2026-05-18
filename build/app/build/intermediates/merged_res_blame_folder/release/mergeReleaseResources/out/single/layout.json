@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.kutirakushala.app-mergeReleaseResources-40:/layout/activity_search.xml",
+        "source": "com.kutirakushala.app-main-43:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.kutirakushala.app-mergeReleaseResources-40:/layout/item_business_card.xml",
+        "source": "com.kutirakushala.app-main-43:/layout/item_business_card.xml"
+    },
+    {
+        "merged": "com.kutirakushala.app-mergeReleaseResources-40:/layout/activity_add_business.xml",
+        "source": "com.kutirakushala.app-main-43:/layout/activity_add_business.xml"
+    },
+    {
+        "merged": "com.kutirakushala.app-mergeReleaseResources-40:/layout/activity_add_product.xml",
+        "source": "com.kutirakushala.app-main-43:/layout/activity_add_product.xml"
+    },
+    {
+        "merged": "com.kutirakushala.app-mergeReleaseResources-40:/layout/activity_splash.xml",
+        "source": "com.kutirakushala.app-main-43:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.kutirakushala.app-mergeReleaseResources-40:/layout/activity_main.xml",
+        "source": "com.kutirakushala.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kutirakushala.app-mergeReleaseResources-40:/layout/activity_business_detail.xml",
+        "source": "com.kutirakushala.app-main-43:/layout/activity_business_detail.xml"
+    },
+    {
+        "merged": "com.kutirakushala.app-mergeReleaseResources-40:/layout/activity_language_selection.xml",
+        "source": "com.kutirakushala.app-main-43:/layout/activity_language_selection.xml"
+    },
+    {
+        "merged": "com.kutirakushala.app-mergeReleaseResources-40:/layout/dialog_update_capacity.xml",
+        "source": "com.kutirakushala.app-main-43:/layout/dialog_update_capacity.xml"
+    },
+    {
+        "merged": "com.kutirakushala.app-mergeReleaseResources-40:/layout/item_product_card.xml",
+        "source": "com.kutirakushala.app-main-43:/layout/item_product_card.xml"
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_ic_business_placeholder.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/ic_business_placeholder.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/layout_activity_splash.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_ic_location_small.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/ic_location_small.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/layout_activity_main.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_ic_product_placeholder.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/ic_product_placeholder.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_gradient_scrim.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/gradient_scrim.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_ic_language.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/ic_language.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/layout_activity_add_business.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/layout/activity_add_business.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_ic_back.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_bg_icon_btn.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/bg_icon_btn.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/layout_activity_language_selection.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/layout/activity_language_selection.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/layout_activity_search.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/layout/activity_search.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/color_chip_selector.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/color/chip_selector.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_ic_add.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_bg_tag_outline.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/bg_tag_outline.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/layout_item_business_card.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/layout/item_business_card.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/layout_activity_add_product.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/layout/activity_add_product.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_bg_icon_btn_dark.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/bg_icon_btn_dark.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_bg_spinner.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/bg_spinner.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/layout_item_product_card.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/layout/item_product_card.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_ic_search.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_bg_status_accepting.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/bg_status_accepting.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/color_chip_text_selector.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/color/chip_text_selector.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/layout_dialog_update_capacity.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/layout/dialog_update_capacity.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_ic_workshop_placeholder.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/ic_workshop_placeholder.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_bg_tag_saffron.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/bg_tag_saffron.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_bg_search_field.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/bg_search_field.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/layout_activity_business_detail.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/layout/activity_business_detail.xml"
+    },
+    {
+        "merged": "com.kutirakushala.app-debug-41:/layout_activity_main.xml.flat",
+        "source": "com.kutirakushala.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_ic_kutira_logo.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/ic_kutira_logo.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_bg_badge_closed.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/bg_badge_closed.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_bg_status_not_accepting.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/bg_status_not_accepting.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/drawable_bg_badge_open.xml.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/drawable/bg_badge_open.xml"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/font_noto_sans_devanagari.ttf.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/font/noto_sans_devanagari.ttf"
+    },
+    {
+        "merged": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-debug-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/akhil/.gradle/daemon/9.2.1/com.kutirakushala.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]

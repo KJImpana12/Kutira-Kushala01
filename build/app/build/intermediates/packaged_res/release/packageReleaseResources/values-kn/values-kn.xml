@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಕುಟಿರ-ಕುಶಲ</string>
+    <string name="back">ಹಿಂದೆ</string>
+    <string name="btn_select_profile_photo">📷 ಪ್ರೊಫೈಲ್ ಫೋಟೋ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="btn_select_workshop_photo">🏭 ಕಾರ್ಯಾಗಾರ ಫೋಟೋ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="businesses_found">%d ವ್ಯಾಪಾರಗಳು</string>
+    <string name="category_agriculture">ಕೃಷಿ</string>
+    <string name="category_all">ಎಲ್ಲಾ</string>
+    <string name="category_craft">ಕರಕುಶಲ</string>
+    <string name="category_food">ಆಹಾರ</string>
+    <string name="category_other">ಇತರೆ</string>
+    <string name="category_textile">ಜವಳಿ</string>
+    <string name="error_failed_to_save">ಉಳಿಸಲು ವಿಫಲ: %s</string>
+    <string name="error_fill_required_fields">ಎಲ್ಲಾ ಅಗತ್ಯ ಕ್ಷೇತ್ರಗಳನ್ನು ತುಂಬಿಸಿ</string>
+    <string name="failed_to_load">ಲೋಡ್ ವಿಫಲ: %s</string>
+    <string name="hint_business_name">ವ್ಯಾಪಾರದ ಹೆಸರು *</string>
+    <string name="hint_category">ವರ್ಗ *</string>
+    <string name="hint_description">ನಿಮ್ಮ ವ್ಯಾಪಾರದ ಬಗ್ಗೆ</string>
+    <string name="hint_location">ಗ್ರಾಮ / ನಗರ, ಜಿಲ್ಲೆ *</string>
+    <string name="hint_owner_name">ಮಾಲೀಕರ / ಕುಟುಂಬದ ಹೆಸರು *</string>
+    <string name="hint_phone">ಮೊಬೈಲ್ ಸಂಖ್ಯೆ *</string>
+    <string name="hint_weekly_capacity">ಸಾಪ್ತಾಹಿಕ ಉತ್ಪಾದನಾ ಸಾಮರ್ಥ್ಯ (ಘಟಕಗಳು) *</string>
+    <string name="label_profile_photo">ತಂಡ / ಕುಟುಂಬ ಫೋಟೋ</string>
+    <string name="label_workshop_photo">ಕಾರ್ಯಾಗಾರ / ಉತ್ಪಾದನಾ ಪ್ರದೇಶ ಫೋಟೋ</string>
+    <string name="language_change">ಭಾಷೆ ಬದಲಾಯಿಸಿ</string>
+    <string name="loading_businesses">ಲೋಡ್ ಆಗುತ್ತಿದೆ...</string>
+    <string name="register_business">ವ್ಯಾಪಾರ ನೋಂದಣಿ ಮಾಡಿ</string>
+    <string name="success_business_registered">ವ್ಯಾಪಾರ ಯಶಸ್ವಿಯಾಗಿ ನೋಂದಾಯಿಸಲಾಗಿದೆ!</string>
+</resources>

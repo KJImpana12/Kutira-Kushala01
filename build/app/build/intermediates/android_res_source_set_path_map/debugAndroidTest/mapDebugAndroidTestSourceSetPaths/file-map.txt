@@ -1,0 +1,6 @@
+com.kutirakushala.test.app-annotation-experimental-1.3.0-0 /Users/akhil/.gradle/caches/9.2.1/transforms/2664a488fcb77a2e6e896ab0718cd32e/transformed/annotation-experimental-1.3.0/res
+com.kutirakushala.test.app-core-1.5.0-1 /Users/akhil/.gradle/caches/9.2.1/transforms/51223645e9b408c5528b9eb58cff3585/transformed/core-1.5.0/res
+com.kutirakushala.test.app-updated_navigation_xml-2 /Users/akhil/Downloads/KutiraKushala-2/app/build/generated/updated_navigation_xml/debugAndroidTest
+com.kutirakushala.test.app-packageDebugAndroidTestResources-3 /Users/akhil/Downloads/KutiraKushala-2/app/build/intermediates/incremental/debugAndroidTest/packageDebugAndroidTestResources/merged.dir
+com.kutirakushala.test.app-packageDebugAndroidTestResources-4 /Users/akhil/Downloads/KutiraKushala-2/app/build/intermediates/incremental/debugAndroidTest/packageDebugAndroidTestResources/stripped.dir
+com.kutirakushala.test.app-debugAndroidTest-5 /Users/akhil/Downloads/KutiraKushala-2/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

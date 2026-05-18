@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kutira-Kushala</string>
+    <string name="tagline">Micro-Factory</string>
+    <string name="tagline_english">Micro-Factory Showcase</string>
+    <string name="product_catalog">Product Catalog</string>
+    <string name="capacity_meter">Capacity Meter</string>
+    <string name="direct_connect">Contact for Bulk Order</string>
+    <string name="accepting_orders">Accepting Orders</string>
+    <string name="not_accepting_orders">Not Accepting Orders</string>
+    <string name="update_capacity">Update Capacity</string>
+    <string name="weekly_capacity">Weekly Capacity</string>
+    <string name="daily_capacity">Daily Capacity</string>
+    <string name="bulk_price">Bulk Price</string>
+    <string name="min_order">Minimum Order</string>
+    <string name="units_available">units available</string>
+    <string name="no_businesses">No businesses found. Be the first to register!</string>
+    <string name="no_products">No products listed yet. Add your first product!</string>
+    <string name="search_hint">Search by product, category, location…</string>
+    <string name="loading_businesses">Loading businesses...</string>
+    <string name="language_change">Change Language</string>
+    <string name="category_all">All</string>
+    <string name="category_food">Food</string>
+    <string name="category_craft">Craft</string>
+    <string name="category_textile">Textile</string>
+    <string name="category_agriculture">Agriculture</string>
+    <string name="category_other">Other</string>
+    <string name="failed_to_load">Failed to load: %s</string>
+    <string name="businesses_found">%d businesses found</string>
+    <string name="back">Back</string>
+    <string name="register_business">Register Your Business</string>
+    <string name="hint_owner_name">Owner / Family Name *</string>
+    <string name="hint_business_name">Business Name *</string>
+    <string name="hint_category">Category *</string>
+    <string name="hint_location">Village / City, District *</string>
+    <string name="hint_phone">Mobile Number *</string>
+    <string name="hint_weekly_capacity">Weekly Production Capacity (units) *</string>
+    <string name="hint_description">About your business</string>
+    <string name="label_profile_photo">Team / Family Photo</string>
+    <string name="btn_select_profile_photo">📷 Select Profile Photo</string>
+    <string name="label_workshop_photo">Workshop / Production Area Photo</string>
+    <string name="btn_select_workshop_photo">🏭 Select Workshop Photo</string>
+    <string name="error_fill_required_fields">Please fill all required fields</string>
+    <string name="success_business_registered">Business registered successfully!</string>
+    <string name="error_failed_to_save">Failed to save: %s</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.KutiraKushala" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/saffron</item>
+        <item name="colorPrimaryVariant">@color/saffron_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/green_capacity</item>
+        <item name="colorSecondaryVariant">@color/green_capacity</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/saffron_dark</item>
+        <item name="android:windowBackground">@color/bg_cream</item>
+    </style>
+
+    <style name="Theme.KutiraKushala.Splash" parent="Theme.KutiraKushala">
+        <item name="android:statusBarColor">@color/saffron</item>
+        <item name="android:windowBackground">@color/saffron</item>
+    </style>
+
+</resources>

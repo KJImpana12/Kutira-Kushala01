@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">कुटिर-कुशल</string>
+    <string name="back">वापस</string>
+    <string name="btn_select_profile_photo">📷 प्रोफ़ाइल फ़ोटो चुनें</string>
+    <string name="btn_select_workshop_photo">🏭 कार्यशाला फ़ोटो चुनें</string>
+    <string name="businesses_found">%d व्यापार मिले</string>
+    <string name="category_agriculture">कृषि</string>
+    <string name="category_all">सभी</string>
+    <string name="category_craft">शिल्प</string>
+    <string name="category_food">भोजन</string>
+    <string name="category_other">अन्य</string>
+    <string name="category_textile">वस्त्र</string>
+    <string name="error_failed_to_save">सहेजने में विफल: %s</string>
+    <string name="error_fill_required_fields">कृपया सभी आवश्यक फ़ील्ड भरें</string>
+    <string name="failed_to_load">लोड विफल: %s</string>
+    <string name="hint_business_name">व्यापार का नाम *</string>
+    <string name="hint_category">श्रेणी *</string>
+    <string name="hint_description">अपने व्यापार के बारे में</string>
+    <string name="hint_location">गाँव / शहर, जिला *</string>
+    <string name="hint_owner_name">मालिक / परिवार का नाम *</string>
+    <string name="hint_phone">मोबाइल नंबर *</string>
+    <string name="hint_weekly_capacity">साप्ताहिक उत्पादन क्षमता (इकाइयाँ) *</string>
+    <string name="label_profile_photo">टीम / परिवार फ़ोटो</string>
+    <string name="label_workshop_photo">कार्यशाला / उत्पादन क्षेत्र फ़ोटो</string>
+    <string name="language_change">भाषा बदलें</string>
+    <string name="loading_businesses">लोड हो रहा है...</string>
+    <string name="register_business">व्यापार पंजीकृत करें</string>
+    <string name="success_business_registered">व्यापार सफलतापूर्वक पंजीकृत!</string>
+</resources>
