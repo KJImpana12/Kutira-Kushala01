@@ -237,7 +237,7 @@ User taps "Update" button
 ## 👨‍💻 Developed By
 
 Internship Project — [Akhil M]  
-Guide: [Rame gowda M]  
+Guide: [Tirumal Mutalikdesai]  
 Institution: [S J C Institute of Techonolgy]
 
 ---
