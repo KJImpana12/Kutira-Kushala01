@@ -1,4 +1,4 @@
-# 🏺 Kutira-Kushala (कुटीर-कुशला)
+# 🏺 Kutira-Kushala (ಕುಟೀರ-ಕುಶಲ)
 ### Micro-Factory Showcase App — Android Internship Project
 
 ---
@@ -236,9 +236,9 @@ User taps "Update" button
 
 ## 👨‍💻 Developed By
 
-Internship Project — [Your Name]  
-Guide: [Mentor Name]  
-Institution: [College Name]
+Internship Project — [Akhil M]  
+Guide: [Rame gowda M]  
+Institution: [S J C Institute of Techonolgy]
 
 ---
 
